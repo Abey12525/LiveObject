@@ -1,0 +1,9 @@
+opencv-python
+numpy
+flask
+pillow
+<<<<<<< HEAD
+gunicorn
+=======
+gunicorn
+>>>>>>> c676ea1923fef976626fe4ffe2f95bc07bd047b0
